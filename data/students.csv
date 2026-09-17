@@ -1,0 +1,5 @@
+id,registrationNo,name,email,javaMarks,dbmsMarks,mathMarks,active
+101,24CSE1001,Aarav Sharma,aarav@example.com,88,82,91,true
+102,24CSE1002,Meera Singh,meera@example.com,94,90,89,true
+103,24CSE1003,Rohan Verma,rohan@example.com,76,84,79,true
+104,24CSE1004,Ananya Patel,ananya@example.com,68,73,71,true
